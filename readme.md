@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 ## CRUD API WITH GOLANG
 
-=======
-<<<<<<< Updated upstream
-=======
-
-## CRUD API WITH GOLANG
-
->>>>>>> Stashed changes
->>>>>>> main
+CRUD API using golang and [gorilla mux](https://github.com/gorilla/mux) package. 
